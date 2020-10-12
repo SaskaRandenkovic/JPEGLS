@@ -1,0 +1,7 @@
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\bin\Debug\JPEG-LS.exe.config
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\bin\Debug\JPEG-LS.exe
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\bin\Debug\JPEG-LS.pdb
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\obj\Debug\JPEG-LS.csprojAssemblyReference.cache
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\obj\Debug\JPEG-LS.csproj.CoreCompileInputs.cache
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\obj\Debug\JPEG-LS.exe
+C:\Users\Saska\Desktop\8-bita\JPEG-LS\JPEG-LS\obj\Debug\JPEG-LS.pdb
